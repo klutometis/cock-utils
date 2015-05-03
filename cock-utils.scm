@@ -1,3 +1,7 @@
+@(heading "Deprecation")
+
+@(text "{{Cock-utils}} has been deprecated for [[egg/hahn-utils|hahn-utils]].")
+
 @(heading "Introduction")
 
 @(text "{{Cock-utils}} is mainly interesting because it provides the {{cock}}
