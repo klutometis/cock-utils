@@ -1,9 +1,9 @@
-((synopsis "Translates in-source documentation from [[cock]] into
-wiki.")
+((synopsis "Translates in-source documentation from cock into wiki:
+deprecated for hahn-utils")
  (author "Peter Danenberg")
  (email "pcd@roxygen.org")
  (repo "https://github.com/klutometis/cock-utils")
- (category doc-tools)
+ (category obsolete)
  (license "BSD")
  (depends alist-lib
           args
